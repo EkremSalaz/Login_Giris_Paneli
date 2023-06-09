@@ -1,6 +1,6 @@
 # Öğrenci Giriş Paneli 
 
-*öğrenciler için akaemik izleme uygulaması oluşturacağım
+*öğrenciler için akademik izleme uygulaması oluşturacağım
 
 ilk olarak öğrencinin okul numarası ve şifresi istenmektedir 
 alt kısmına da şifremi unuttum butonu yer almaktadır.
