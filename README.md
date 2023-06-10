@@ -3,14 +3,11 @@
 *öğrenciler için akademik durum takip uygulaması oluşturacağım
 
 ilk olarak öğrencinin okul numarası ve şifresi istenmektedir 
-alt kısmına da şifremi unuttum butonu yer almaktadır.
-giriş yaptıktan sonra not bilgisi , ortalaması ve öğrenciyle ilgili sınıf bilgileri  butonları bulunmaktadır.
-bunların hepsi farklı sekmeler altında bulunmaktadır.
+onun hemen altında  giriş yap bulunmakta
+onun da altında kullanıcı oluştur seçeneği bulunmakta 
+sağ en altta ise çıkış butonu bulunmaktadır 
 
-
-
-
-
+giriş yaptıktan sonra farklı bir seklme açılır ve burada not bilgisi , ortalaması ve öğrenciyle ilgili sınıf bilgileri   bulunmaktadır.
 
 
 # Uygulamanın Geliştirileceği Yer 
